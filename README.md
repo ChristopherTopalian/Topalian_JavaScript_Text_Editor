@@ -8,3 +8,6 @@ This JavaScript Text Editor works online and can Save, Open, and Edit multiple t
 
 ![tjste003](https://github.com/ChristopherTopalian/Topalian_JavaScript_Text_Editor/blob/main/Topalian_JavaScript_Text_Editor/src/_instructions/screenshots/tjste003.PNG)
 
+Video: https://www.youtube.com/watch?v=jQ7EIDrZ91I
+
+
