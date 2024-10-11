@@ -10,4 +10,5 @@ This JavaScript Text Editor works online and can Save, Open, and Edit multiple t
 
 Video: https://www.youtube.com/watch?v=jQ7EIDrZ91I
 
+Use App Here: https://sites.google.com/view/collegeofscripting/topalian_javascript_text_editor
 
