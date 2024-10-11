@@ -1,4 +1,4 @@
-// downloadData.js
+// download.js
 
 function download(whichElement) 
 {
